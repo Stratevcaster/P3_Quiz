@@ -173,7 +173,7 @@ exports.deleteCmd = (rl,id) => {
 
 exports.creditsCmd = (rl) => {
     console.log('Autores de la practica');
-    console.log('Byron Aldaz');
+    console.log('YANI');
     rl.prompt();
 };
 
